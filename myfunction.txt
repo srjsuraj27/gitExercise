@@ -1,7 +1,7 @@
+
 onefunction - I have added a very very important function here.
+
 twofunction - I have added a very important function here.
 threefunction - I have added a very important function here.
 
 added a chart function in our branch.
-
-added a code for logout.
